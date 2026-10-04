@@ -1,0 +1,10 @@
+{
+  "name": "إدارة الوعل",
+  "short_name": "إدارة الوعل",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F6F2",
+  "theme_color": "#0E5A46",
+  "description": "Agent and administrator management application",
+  "orientation": "any"
+}
